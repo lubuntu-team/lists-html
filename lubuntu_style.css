@@ -1,0 +1,41 @@
+body {
+    font-size: 14px;
+    font-family: Ubuntu, sans-serif;
+    color: #555555;
+    margin: 0;
+}
+
+h1 {
+    font-size: 26px;
+}
+
+tr td[bgcolor] {
+    background-color: #0074B9;
+    margin: 0;
+}
+
+font[color] {
+    color: #FFFFFF;
+    font-size: 26px;
+}
+
+td[bgcolor] {
+    color: #FFFFFF;
+}
+
+table {
+    border-spacing: 0;
+}
+
+p {
+    font-size: 14px;
+}
+
+b {
+    font-weight: 300;
+}
+
+a {
+    color: #1E73BE;
+    font-size: 13px;
+}

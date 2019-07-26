@@ -1,0 +1,25 @@
+<MM-Archive><MM-List-Name>\n		  Archives</MM-Archive>.\n	      <MM-Restricted-List-Message>////<a href="https://lists.ubuntu.com/archives/lubuntu-users">Lubuntu-users\n		  Archives</a>.
+<MM-List-Name>////Lubuntu-users
+<MM-List-Description>////Lubuntu Help and User Discussions
+<MM-lang-form-start>////<FORM Method=POST ACTION="../listinfo/lubuntu-users"><INPUT type="Submit" name="displang-button" value="View this page in"> 
+<MM-form-end>////</FORM>
+<MM-displang-box>//// 
+<MM-List-Info>////<!---->This mailing list serves the Lubuntu community for the purposes of support and general discussion.\n<br>\n<br>Web: http://lubuntu.me\n<br>Wiki: https://wiki.ubuntu.com/Lubuntu\n<br>IRC: irc://chat.freenode.org/lubuntu\n<br>Telegram: t.me/lubuntudevel\n<br> <!---->
+<MM-Posting-Addr>////lubuntu-users@lists.ubuntu.com
+<MM-List-Subscription-Msg>////You will be sent email requesting confirmation, to\n            prevent others from gratuitously subscribing you. This is a hidden list, which means that the\n            list of members is available only to the list administrator.
+<MM-Subscribe-Form-Start>////<FORM Method=POST ACTION="../subscribe/lubuntu-users">
+<MM-Subscribe-Box>////<INPUT type="Text" name="email" size="30" value="">
+<mm-fullname-box>////<INPUT type="Text" name="fullname" size="30" value="">
+<MM-Reminder>//// 
+<MM-New-Password-Box>////<INPUT type="Password" name="pw" size="15">
+<MM-Confirm-Password>////<INPUT type="Password" name="pw-conf" size="15">
+<MM-list-langs>//// \n<Select name="language">\n <option value="en" Selected> English (USA) </option>\n <option value="zh_TW"> Chinese (Taiwan) </option>\n</Select>
+<MM-Undigest-Radio-Button>////<input type=radio name="digest" value="0" CHECKED>
+<MM-Digest-Radio-Button>////<input type=radio name="digest" value="1">
+<mm-digest-question-end>//// 
+<MM-Subscribe-Button>////<INPUT type="Submit" name="email-button" value="Subscribe">
+<MM-Roster-Form-Start>////<FORM Method=POST ACTION="../roster/lubuntu-users">
+<MM-Roster-Option>////<INPUT name="language" type="HIDDEN" value="en" >(<i>The subscribers list is only available to the list\n            administrator.</i>) <p>Enter your admin address and password to visit  the subscribers list: <p><center> Admin address: <INPUT type="Text" name="roster-email" size="20" value="">Password: <INPUT type="Password" name="roster-pw" size="15">&nbsp;&nbsp;<INPUT name="SubscriberRoster" type="SUBMIT" value="Visit Subscriber List" ></center>
+<MM-Options-Form-Start>////<FORM Method=POST ACTION="../options/lubuntu-users">
+<MM-Editing-Options>////To unsubscribe from Lubuntu-users, get a password reminder,\n        or change your subscription options enter your subscription\n        email address:\n        <p><center> <INPUT name="email" type="TEXT" value="" size="30" >  <INPUT name="UserOptions" type="SUBMIT" value="Unsubscribe or edit options" ><INPUT name="language" type="HIDDEN" value="en" ></center> If you leave the field blank, you will be prompted for\n        your email address
+<MM-Mailman-Footer>////<hr><address><a href="../listinfo/lubuntu-users">Lubuntu-users</a> list run by <a href="mailto:lubuntu-users-owner@lists.ubuntu.com">wxl at ubuntu.com, tsimonq2 at lubuntu.me</a><br><a href="../admin/lubuntu-users">Lubuntu-users administrative interface</a> (requires authorization)<br><a href="../listinfo">Overview of all lists.ubuntu.com mailing lists</a><p>\n<table WIDTH="100%" BORDER="0">\n  <tr>\n    <td><a href="http://www.gnu.org/software/mailman/index.html">Delivered by Mailman<br>version 2.1.20</a></td>\n    <td><a href="http://www.python.org/">Python Powered</a></td>\n    <td><a href="http://www.gnu.org/">GNU's Not Unix</a></td>\n    <td><a href="http://www.debian.org/">Debian Powered</a></td>\n  </tr>\n</table>\n</address>
