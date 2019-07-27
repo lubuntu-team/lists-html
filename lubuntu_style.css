@@ -1,8 +1,53 @@
 body {
     font-size: 14px;
     font-family: Ubuntu, sans-serif;
+    /* background-color: rgb(14, 10, 54); */
+    background-color: #FFFFFF;
+    /* color: #AAAAAA; */
     color: #555555;
     margin: 0;
+}
+
+body div {
+    margin: 0;
+    /* padding: 0 0 0 1rem; */
+    padding: 0;
+}
+
+div.header {
+    background-color: #0074B9;
+    color: #FFFFFF;
+    height: 4rem;
+    padding: .5rem;
+}
+
+div.header img {
+    float: left;
+}
+
+div.header-spacer img {
+    height: 6rem;
+    width: 100%;
+    object-fit: cover;
+}
+
+div.section {
+    padding: 0 0 0 2rem;
+}
+
+div.section-header {
+    background-color: #0074B9;
+    color: #FFFFFF;
+    padding: .25rem .25rem .25rem 2rem;
+}
+
+h1 {
+    font-weight: 300;
+}
+
+div.header img {
+    height: 4rem;
+    margin: .5rem 0 0 .5rem;
 }
 
 h1 {
