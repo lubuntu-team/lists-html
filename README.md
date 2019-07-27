@@ -1,4 +1,4 @@
-# lubuntu-mailman-style
+# lists-html
 
 ## Overview
 This project is for the maintainence of stylesheets and templates for the Lubuntu mailing list pages located on the [Ubuntu Mailing Lists](https://lists.ubuntu.com) page.  HTML templates are located in the "templates" folder and are used to generate HTML similar to what Mailman generates, by replacing template tags with placeholder HTML taken from the actual site.  These translations are located in "templates/translations".
