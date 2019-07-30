@@ -13,7 +13,7 @@ This is how you can use this repository to make updates to the styles or templat
  ### Checkout
  Clone the git repo:
 ```bash
-git clone <this repository>
+git clone https://github.com/lubuntu-team/lists-html.git
 ```
 
  ### Install Dependencies

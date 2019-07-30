@@ -19,6 +19,21 @@ body div {
     padding: 0;
 }
 
+form center {
+    text-align: left;
+}
+
+address {
+    background-color: #0074B9;
+    color: #BBBBBB;
+    padding: .5rem;
+}
+
+address a {
+    color: #FFFFFF;
+    font-style: normal;
+}
+
 div.header {
     background-color: #0074B9;
     color: #FFFFFF;
